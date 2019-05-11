@@ -92,7 +92,7 @@ class MyCard extends Component {
                                 src={
                                     this.props.photo
                                         ? this.props.photo
-                                        : '/static/images/upload3.png'
+                                        : '/images/upload3.png'
                                 }
                                 style={{
                                     cursor: 'pointer',
